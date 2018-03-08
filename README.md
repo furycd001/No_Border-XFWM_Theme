@@ -1,8 +1,8 @@
 # No_Border-XFWM-Theme
 
-A simple nno border XFWM theme....
+A simple no border XFWM theme....
 
-Installation
+## Installation
 
 1. sudo mkdir /usr/share/themes/empty
    - You can name your theme whatever so replce "empty" with whatever you like.
