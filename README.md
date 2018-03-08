@@ -2,6 +2,8 @@
 
 A simple no border XFWM theme....
 
+![alt text](http://i.imgur.com/xwUGwI8.png "empty theme")
+
 ## Installation
 
 1. sudo mkdir /usr/share/themes/empty
