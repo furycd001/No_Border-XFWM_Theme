@@ -17,4 +17,4 @@ A simple no border XFWM theme....
 
 ---
 
-_Someone told me that you can create this no-border theme for other window managers such as mate, cinnamon & openbox etc. You apparently just need to change the name of the xfwm4 to your choosen desktop environment. I have not tested this out as of yet but I don't see why it shouldn't work._
+_Someone told me that you can create this no-border theme for other window managers such as mate, cinnamon & openbox etc. You apparently just need to change the name of xfwm4 to your choosen desktop environment. I have not tested this out as of yet but I don't see why it shouldn't work._
