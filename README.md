@@ -6,11 +6,11 @@ A simple no border XFWM theme....
 
 ## Installation
 
-1. sudo mkdir /usr/share/themes/empty
+1. `sudo mkdir /usr/share/themes/empty`
    - You can name your theme whatever so replce "empty" with whatever you like.
-2. sudo mkdir /usr/share/themes/empty/xfwm4
+2. `sudo mkdir /usr/share/themes/empty/xfwm4`
    - Remember to replace "empty" with whatever name you choose above.
-3. sudo touch /usr/share/themes/empty/xfwm4/themerc
+3. `sudo touch /usr/share/themes/empty/xfwm4/themerc`
    - Leave this file blank and your done.
 4. Finished!!
    - Open up your window manager settings and choose your newly created theme.
