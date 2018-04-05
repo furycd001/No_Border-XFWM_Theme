@@ -1,10 +1,10 @@
-No_Border-XFWM-Theme
+# No_Border-XFWM-Theme
 
 A simple no border XFWM theme....
 
+![alt text](http://i.imgur.com/xwUGwI8.png "empty theme")
 
-
-Installation
+## Installation
 
 1. sudo mkdir -p /usr/share/themes/empty/xfwm4
    - You can replace "empty" with whatever name you want. This name will be the name of your theme.
@@ -15,4 +15,4 @@ Installation
 
 ---
 
-Someone told me that you can create this no-border theme for other window managers such as mate, cinnamon & openbox etc. You apparently just need to change the name of xfwm4 to your choosen desktop environment. I have not tested this out as of yet but I don't see why it shouldn't work.
+_Someone told me that you can create this no-border theme for other window managers such as mate, cinnamon & openbox etc. You apparently just need to change the name of xfwm4 to your choosen desktop environment. I have not tested this out as of yet but I don't see why it shouldn't work._
