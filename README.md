@@ -7,7 +7,7 @@ A simple no border XFWM theme....
 ## Installation
 
 1. sudo mkdir -p /usr/share/themes/empty/xfwm4
-   - You can replace "empty" with whatever name you want. This name will be the name of your theme.
+   - You can replace "empty" with whatever you want. This will be the name of your theme.
 2. sudo touch /usr/share/themes/empty/xfwm4/themerc
    - Leave this file blank and your done.
 3. Finished!!
